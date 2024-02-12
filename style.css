@@ -150,6 +150,7 @@ body {
   .container {
     display: flex;
     flex-direction: column-reverse;
+    overflow: hidden;
   }
 
   .left {
